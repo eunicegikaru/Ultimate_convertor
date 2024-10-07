@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ultimate_convertor</string>
+    <!-- This string is for the out spinner, that will offer a drop down list for the different number systems. -->
+    <string-array name="number_systems">
+        <item>HEX</item>
+        <item>OCT</item>
+        <item>DEC</item>
+        <item>BIN</item>
+    </string-array>
+
+</resources>
